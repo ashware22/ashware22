@@ -13,7 +13,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  **Languages and Frameworks**
  
- <img alt="Python" width="30px" src="/Assets/python.png"/>|<img alt="C" width="30px" src="/Assets/c-programming.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Bulma" width="30px" src="/Assets/bulma.svg"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss-icon.svg"/>
+ <img alt="Python" width="30px" src="/Assets/python.png"/>|<img alt="C" width="30px" src="/Assets/c-programming.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>
  |--|--|--|--|--|--|--|--|
  
  **Tools**
@@ -23,7 +23,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  
  **Designing and Photo Editing**
  
-<img alt="Adobe Photoshop" width="30px" src="/Assets/photoshop.png"/>|<img alt="Adobe Lightroom" width="30px" src="/Assets/lightroom.png"/>|<img alt="Gimp" width="30px" src="/Assets/gimp-icon.svg"/>
+<img alt="Adobe Photoshop" width="30px" src="/Assets/photoshop.png"/>
  |--|--|--|
 
 **Audio & Video Editing**
@@ -33,5 +33,5 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  **Connect with Me**
 ---
-[<img align="left" alt="Rohan Das" width="30px" src="https://rohandas28.github.io/assets/images/logo.png" />](https://rohandas28.github.io/links) [<img align="left" alt="Twitter - Rohan Das" width="30px" src="/Assets/twitter.png" />](https://twitter.com/rohandas28) [<img align="left" alt="Instagram - Rohan Das" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/RohanDasRD) [<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/rohandas28) [<img align="left" alt="YouTube -Rohan Das" width="30px" src="/Assets/youtube.png" />](https://www.youtube.com/c/RohanDasTech) [<img align="left" alt="Email -Rohan Das" width="30px" src="/Assets/gmail.png" />](mailto:rohandasbirbhum@gmail.com)
+[<img align="left" alt="Twitter - Ashwini" width="30px" src="/Assets/twitter.png" />](https://twitter.com/rohandas28) [<img align="left" alt="Instagram - Ashwini" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/RohanDasRD) [<img align="left" alt="LinkedIn - Ashwini" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/rohandas28) [<img align="left" alt="YouTube -Ashwini" width="30px" src="/Assets/youtube.png" />](https://www.youtube.com/c/RohanDasTech) [<img align="left" alt="Email -Ashwini" width="30px" src="/Assets/gmail.png" />](mailto:asonar989@gmail.com)
 
