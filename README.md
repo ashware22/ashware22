@@ -1,8 +1,7 @@
-<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Rohan</a> 🙋🏽‍♂️</h1> 
+<h1>Hi there, I am Ashwini 🙋🏽‍♂️</h1> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=rohandas28) 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="230">
 
 
 I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
@@ -13,7 +12,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  **Languages and Frameworks**
  
- <img alt="Python" width="30px" src="/Assets/python.png"/>|<img alt="C" width="30px" src="/Assets/c-programming.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Bulma" width="30px" src="/Assets/bulma.svg"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss-icon.svg"/>
+ <img alt="Python" width="30px" src="python.png"/>|<img alt="C" width="30px" src="c-programming.png"/>|<img alt="HTML" width="30px" src="html.png"/>|<img alt="CSS" width="30px" src="css-3.png"/>|<img alt="JavaScript" width="30px" src="javascript.png"/>|<img alt="Bootstrap" width="30px" src="bootstrap-logo.png"/>
  |--|--|--|--|--|--|--|--|
  
  **Tools**
