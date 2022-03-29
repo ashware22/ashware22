@@ -17,8 +17,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  
  **Tools**
  
- <img alt="Ubuntu" width="30px" src="/ubuntu.png"/>|<img alt="Linux" width="30px" src="/linux.png"/>|<img alt="Git" width="30px" src="/git.png"/>|<img alt="VSCode" width="30px" src="/vscode.png"/>|
- 
+ <img alt="Ubuntu" width="30px" src="/ubuntu.png"/>|<img alt="Linux" width="30px" src="/linux.png"/>|<img alt="Git" width="30px" src="/git.png"/>|<img alt="VSCode" width="30px" src="/vscode.png"/>
  |--|--|--|--|
  
  **Designing and Photo Editing**
