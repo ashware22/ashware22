@@ -13,16 +13,19 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  **Languages and Frameworks**
  
  <img alt="Python" width="30px" src="python.png"/>|<img alt="C" width="30px" src="c-programming.png"/>|<img alt="HTML" width="30px" src="html.png"/>|<img alt="CSS" width="30px" src="css-3.png"/>|<img alt="JavaScript" width="30px" src="javascript.png"/>|<img alt="Bootstrap" width="30px" src="bootstrap-logo.png"/>
+ 
  |--|--|--|--|--|--|--|--|
  
  **Tools**
  
  <img alt="Ubuntu" width="30px" src="/Assets/ubuntu.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|
+ 
  |--|--|--|--|
  
  **Designing and Photo Editing**
  
 <img alt="Adobe Photoshop" width="30px" src="/Assets/photoshop.png"/>|<img alt="Adobe Lightroom" width="30px" src="/Assets/lightroom.png"/>|<img alt="Gimp" width="30px" src="/Assets/gimp-icon.svg"/>
+
  |--|--|--|
 
 **Audio & Video Editing**
